@@ -1,0 +1,37 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color:rgb(79, 79, 79);
+    color:#ffefef;
+    box-sizing: content-box;
+    width: 600px;
+    height: 100%;
+    text-align: center;
+    border: 4px solid;
+    padding: 10px;
+    }
+h1{
+    font-style: italic;
+    text-align: center;
+    color: solid white;
+}
+header{
+   text-align: left; 
+}
+li{
+    text-align: left;
+    
+}
+ul{
+    text-align: left;
+    
+}
+p{
+    text-align: left;
+}
+a{
+    color: rgb(118, 218, 118);
+   
+}
+a:hover{
+    color: green;
+}
