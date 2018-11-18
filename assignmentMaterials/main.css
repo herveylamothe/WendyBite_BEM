@@ -32,6 +32,8 @@ a{
     color: rgb(118, 218, 118);
    
 }
-a:hover{
-    color: green;
+img {
+    border: 1px solid#ffefef; 
+    padding: 1%;
+    float: right;
 }
